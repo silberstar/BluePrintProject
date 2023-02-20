@@ -1,0 +1,1180 @@
+﻿Log file open, 01/30/23 21:08:50
+LogInit: Display: Running engine for game: Project_RustedHeart
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.123126
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-14469661
+LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 12th Gen Intel(R) Core(TM) i5-12600KF, GPU: NVIDIA GeForce RTX 3060 Ti
+LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal4/Project_RustedHeart/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.01.30-12.08.51:055][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.01.30-12.08.51:055][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.01.30-12.08.51:055][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Unreal4/Project_RustedHeart/Saved/Config/Windows/Engine.ini]
+[2023.01.30-12.08.51:055][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.01.30-12.08.51:055][  0]LogConfig: Setting CVar [[r.CustomDepth:3]]
+[2023.01.30-12.08.51:055][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Unreal4/Project_RustedHeart/Saved/Config/Windows/Engine.ini]
+[2023.01.30-12.08.51:056][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal4/Project_RustedHeart/Saved/Config/Windows/Engine.ini]
+[2023.01.30-12.08.51:056][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.01.30-12.08.51:056][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.01.30-12.08.51:056][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.01.30-12.08.51:056][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.01.30-12.08.51:056][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.01.30-12.08.51:056][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.01.30-12.08.51:056][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.01.30-12.08.51:056][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.01.30-12.08.51:056][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.01.30-12.08.51:056][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.01.30-12.08.51:056][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.01.30-12.08.51:056][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.01.30-12.08.51:056][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.01.30-12.08.51:056][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.01.30-12.08.51:056][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Unreal4/Project_RustedHeart/Saved/Config/Windows/Engine.ini]
+[2023.01.30-12.08.51:056][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.01.30-12.08.51:056][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.01.30-12.08.51:056][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.01.30-12.08.51:056][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.01.30-12.08.51:056][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.01.30-12.08.51:056][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.01.30-12.08.51:056][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.01.30-12.08.51:056][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.01.30-12.08.51:056][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.01.30-12.08.51:056][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.01.30-12.08.51:056][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.01.30-12.08.51:056][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.01.30-12.08.51:056][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.01.30-12.08.51:056][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Unreal4/Project_RustedHeart/Saved/Config/Windows/Engine.ini]
+[2023.01.30-12.08.51:056][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Unreal4/Project_RustedHeart/Saved/Config/Windows/Engine.ini]
+[2023.01.30-12.08.51:058][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal4/Project_RustedHeart/Saved/Config/Windows/Scalability.ini]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal4/Project_RustedHeart/Saved/Config/Windows/Scalability.ini]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal4/Project_RustedHeart/Saved/Config/Windows/Scalability.ini]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal4/Project_RustedHeart/Saved/Config/Windows/Scalability.ini]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal4/Project_RustedHeart/Saved/Config/Windows/Scalability.ini]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal4/Project_RustedHeart/Saved/Config/Windows/Scalability.ini]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal4/Project_RustedHeart/Saved/Config/Windows/Scalability.ini]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Unreal4/Project_RustedHeart/Saved/Config/Windows/Scalability.ini]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2023.01.30-12.08.51:058][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2023.01.30-12.08.51:058][  0]LogInit: Selected Device Profile: [Windows]
+[2023.01.30-12.08.51:058][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.01.30-12.08.51:059][  0]LogHAL: Display: Platform has ~ 32 GB [34164035584 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.01.30-12.08.51:059][  0]LogInit: Going up to parent DeviceProfile []
+[2023.01.30-12.08.51:059][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal4/Project_RustedHeart/Saved/Config/Windows/Scalability.ini]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal4/Project_RustedHeart/Saved/Config/Windows/Scalability.ini]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal4/Project_RustedHeart/Saved/Config/Windows/Scalability.ini]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal4/Project_RustedHeart/Saved/Config/Windows/Scalability.ini]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal4/Project_RustedHeart/Saved/Config/Windows/Scalability.ini]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal4/Project_RustedHeart/Saved/Config/Windows/Scalability.ini]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal4/Project_RustedHeart/Saved/Config/Windows/Scalability.ini]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Unreal4/Project_RustedHeart/Saved/Config/Windows/Scalability.ini]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2023.01.30-12.08.51:059][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal4/Project_RustedHeart/Saved/Config/Windows/Engine.ini]
+[2023.01.30-12.08.51:059][  0]LogInit: Computer: DESKTOP-UK52CDQ
+[2023.01.30-12.08.51:059][  0]LogInit: User: dydy0
+[2023.01.30-12.08.51:059][  0]LogInit: CPU Page size=4096, Cores=10
+[2023.01.30-12.08.51:059][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.01.30-12.08.51:059][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2023.01.30-12.08.51:059][  0]LogMemory: Platform Memory Stats for Windows
+[2023.01.30-12.08.51:059][  0]LogMemory: Process Physical Memory: 117.18 MB used, 117.18 MB peak
+[2023.01.30-12.08.51:059][  0]LogMemory: Process Virtual Memory: 97.96 MB used, 97.96 MB peak
+[2023.01.30-12.08.51:059][  0]LogMemory: Physical Memory: 5903.81 MB used,  26677.55 MB free, 32581.36 MB total
+[2023.01.30-12.08.51:059][  0]LogMemory: Virtual Memory: 5186.86 MB used,  134212544.00 MB free, 134217728.00 MB total
+[2023.01.30-12.08.51:062][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.01.30-12.08.51:076][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2023.01.30-12.08.51:077][  0]LogInit: Using OS detected language (ko-KR).
+[2023.01.30-12.08.51:077][  0]LogInit: Using OS detected locale (ko-KR).
+[2023.01.30-12.08.51:078][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2023.01.30-12.08.51:122][  0]LogInit: Setting process to per monitor DPI aware
+[2023.01.30-12.08.51:353][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.01.30-12.08.51:353][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.01.30-12.08.51:405][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.01.30-12.08.51:405][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.01.30-12.08.51:405][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.01.30-12.08.51:405][  0]LogD3D11RHI: D3D11 adapters:
+[2023.01.30-12.08.51:473][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3060 Ti' (Feature Level 11_0)
+[2023.01.30-12.08.51:473][  0]LogD3D11RHI:       8050/0/16290 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2023.01.30-12.08.51:474][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.01.30-12.08.51:474][  0]LogD3D11RHI:       0/0/16290 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.01.30-12.08.51:474][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2023.01.30-12.08.51:477][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.01.30-12.08.51:477][  0]LogD3D11RHI:     GPU DeviceId: 0x2489 (for the marketing name, search the web for "GPU Device Id")
+[2023.01.30-12.08.51:477][  0]LogWindows: EnumDisplayDevices:
+[2023.01.30-12.08.51:477][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3060 Ti' (P:1 D:1)
+[2023.01.30-12.08.51:478][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3060 Ti' (P:0 D:1)
+[2023.01.30-12.08.51:478][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3060 Ti' (P:0 D:0)
+[2023.01.30-12.08.51:478][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3060 Ti' (P:0 D:0)
+[2023.01.30-12.08.51:478][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.01.30-12.08.51:478][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3060 Ti
+[2023.01.30-12.08.51:478][  0]LogD3D11RHI:   Driver Version: 516.94 (internal:31.0.15.1694, unified:516.94)
+[2023.01.30-12.08.51:478][  0]LogD3D11RHI:      Driver Date: 7-21-2022
+[2023.01.30-12.08.51:478][  0]LogRHI: Texture pool is 5635 MB (70% of 8050 MB)
+[2023.01.30-12.08.51:521][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.01.30-12.08.51:521][  0]LogD3D11RHI: Async texture creation enabled
+[2023.01.30-12.08.51:521][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.01.30-12.08.51:522][  0]LogD3D11RHI: HDR output is supported on display 1 (NvId: 0x80061080).
+[2023.01.30-12.08.51:533][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2023.01.30-12.08.51:693][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2023.01.30-12.08.51:704][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.01.30-12.08.51:704][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.01.30-12.08.51:704][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.01.30-12.08.51:704][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.01.30-12.08.51:704][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.01.30-12.08.51:704][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.01.30-12.08.51:704][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.01.30-12.08.51:704][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.01.30-12.08.51:704][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.01.30-12.08.51:704][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.01.30-12.08.51:717][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.01.30-12.08.51:717][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.01.30-12.08.51:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.01.30-12.08.51:727][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2023.01.30-12.08.51:732][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.01.30-12.08.51:736][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.01.30-12.08.51:741][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2023.01.30-12.08.51:745][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2023.01.30-12.08.51:750][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2023.01.30-12.08.51:763][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2023.01.30-12.08.51:763][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2023.01.30-12.08.51:771][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.01.30-12.08.51:771][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.01.30-12.08.51:776][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.01.30-12.08.51:781][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.01.30-12.08.51:785][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.01.30-12.08.51:790][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.01.30-12.08.51:790][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.01.30-12.08.51:793][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.01.30-12.08.51:822][  0]LogShaderCompilers: Guid format shader working directory is 6 characters bigger than the processId version (../../../../Unreal4/Project_RustedHeart/Intermediate/Shaders/WorkingDirectory/15836/).
+[2023.01.30-12.08.51:822][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/dydy0/AppData/Local/Temp/UnrealShaderWorkingDir/05BDFE9A447B17C66DBD13959283265E/'.
+[2023.01.30-12.08.51:823][  0]LogXGEController: Cleaning working directory: C:/Users/dydy0/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2023.01.30-12.08.51:823][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.01.30-12.08.51:823][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.01.30-12.08.51:823][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.01.30-12.08.52:261][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.01.30-12.08.52:294][  0]LogDerivedDataCache: Loaded boot cache 0.03s 75MB C:/Users/dydy0/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2023.01.30-12.08.52:294][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/dydy0/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2023.01.30-12.08.52:294][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Unreal4/Project_RustedHeart/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.01.30-12.08.52:294][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.01.30-12.08.52:294][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Unreal4/Project_RustedHeart/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.01.30-12.08.52:294][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.01.30-12.08.52:300][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.01.30-12.08.52:300][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.01.30-12.08.52:300][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.01.30-12.08.52:302][  0]LogDerivedDataCache: Using Local data cache path C:/Users/dydy0/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.01.30-12.08.52:302][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.01.30-12.08.52:302][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.01.30-12.08.52:327][  0]LogSlate: Using FreeType 2.10.0
+[2023.01.30-12.08.52:328][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.01.30-12.08.52:346][  0]LogAssetRegistry: FAssetRegistry took 0.0015 seconds to start up
+[2023.01.30-12.08.52:465][  0]LogInit: Selected Device Profile: [Windows]
+[2023.01.30-12.08.52:527][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.01.30-12.08.52:527][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.01.30-12.08.52:527][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.01.30-12.08.52:527][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.01.30-12.08.52:527][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.01.30-12.08.52:539][  0]LogNetVersion: Project_RustedHeart 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 4120144209)
+[2023.01.30-12.08.52:812][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (000001C4593A5C40), frame # 0
+[2023.01.30-12.08.52:812][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C4592EF740), frame # 0
+[2023.01.30-12.08.52:813][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C459349E00), frame # 0
+[2023.01.30-12.08.52:826][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.009263 seconds
+[2023.01.30-12.08.52:829][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2023.01.30-12.08.52:829][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2023.01.30-12.08.52:829][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.01.30-12.08.52:999][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.01.30-12.08.53:002][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.01.30-12.08.53:041][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2023.01.30-12.08.53:041][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2023.01.30-12.08.53:043][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2023.01.30-12.08.53:044][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2023.01.30-12.08.53:048][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2023.01.30-12.08.53:171][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.01.30-12.08.53:181][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.01.30-12.08.53:181][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.01.30-12.08.53:206][  0]LogOcInput: OculusInput pre-init called
+[2023.01.30-12.08.53:211][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2023.01.30-12.08.53:211][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2023.01.30-12.08.53:245][  0]LogEngine: Initializing Engine...
+[2023.01.30-12.08.53:246][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.01.30-12.08.53:246][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2023.01.30-12.08.53:246][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.01.30-12.08.53:320][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.01.30-12.08.53:325][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.01.30-12.08.53:325][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C45DBF8600), frame # 0
+[2023.01.30-12.08.53:325][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C45DBDE840), frame # 0
+[2023.01.30-12.08.53:334][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.30-12.08.53:334][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.30-12.08.53:334][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.30-12.08.53:334][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.30-12.08.53:334][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.30-12.08.53:334][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.30-12.08.53:334][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.30-12.08.53:334][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.30-12.08.53:334][  0]LogAudio: Display: Using built-in audio occlusion.
+[2023.01.30-12.08.53:334][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.30-12.08.53:339][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.30-12.08.53:339][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.01.30-12.08.53:360][  0]LogAudioMixer: Display: Using Audio Device 스피커(Realtek High Definition Audio)
+[2023.01.30-12.08.53:361][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.30-12.08.53:362][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.30-12.08.53:362][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.30-12.08.53:363][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.30-12.08.53:364][  0]LogInit: FAudioDevice initialized.
+[2023.01.30-12.08.53:364][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.01.30-12.08.53:448][  0]LogDerivedDataCache: Saved boot cache 0.08s 75MB C:/Users/dydy0/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2023.01.30-12.08.53:449][  0]LogInit: Texture streaming: Enabled
+[2023.01.30-12.08.53:458][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.01.30-12.08.53:458][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={52C9B5E3-40FC-D16D-E0F3-8097469FCEBA}
+[2023.01.30-12.08.53:458][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2023.01.30-12.08.53:458][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2023.01.30-12.08.53:477][  0]LogInit: Transaction tracking system initialized
+[2023.01.30-12.08.53:488][  0]BlueprintLog: New page: 에디터 로드
+[2023.01.30-12.08.53:522][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2023.01.30-12.08.53:593][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2023.01.30-12.08.53:593][  0]LogCook: Display: Mobile HDR setting 1
+[2023.01.30-12.08.53:660][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal4/Project_RustedHeart/Content/' took 0.00s
+[2023.01.30-12.08.53:791][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2023.01.30-12.08.53:791][  0]LogUnrealEdMisc: Loading editor; pre map load, took 3.305
+[2023.01.30-12.08.53:791][  0]Cmd: MAP LOAD FILE="../../../../Unreal4/Project_RustedHeart/Content/Maps/Demo.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.01.30-12.08.53:791][  0]LightingResults: New page: 라이팅 빌드
+[2023.01.30-12.08.53:791][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.01.30-12.08.53:791][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.30-12.08.53:791][  0]MapCheck: New page: 맵 체크
+[2023.01.30-12.08.53:791][  0]LightingResults: New page: 라이팅 빌드
+[2023.01.30-12.08.53:800][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001C45DBF8600), frame # 0
+[2023.01.30-12.08.53:800][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001C45DBDE840), frame # 0
+[2023.01.30-12.08.53:800][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.01.30-12.08.54:341][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/EQS/EQS_Exam.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:341][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/EQS/EQS_Exam.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:341][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/EQS/EQS_Exam.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:341][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/EQS/EQS_Exam.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:341][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/EQS/EQS_Exam.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:341][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/EQS/EQS_Exam.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:341][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/EQS/EQS_Exam.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:341][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/EQS/EQS_Exam.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:341][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/EQS/EQS_Exam.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:341][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/EQS/EQS_Exam.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:341][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/EQS/BT_EQS.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:341][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/EQS/BT_EQS.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:341][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/EQS/BT_EQS.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:341][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/EQS/BT_EQS.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:341][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/EQS/BT_EQS.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:341][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/EQS/BT_EQS.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:341][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/EQS/BT_EQS.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:341][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/EQS/BT_EQS.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:341][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/EQS/BT_EQS.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:341][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/EQS/BT_EQS.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:341][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/EQS/BT_EQS.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:341][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/EQS/BT_EQS.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:341][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/EQS/BT_EQS.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:342][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/EQS/BT_EQS.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:342][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/EQS/BT_EQS.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:342][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/EQS/BT_EQS.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:342][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/EQS/BT_EQS.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:342][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/EQS/BT_EQS.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:342][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/EQS/BT_EQS.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:342][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/EQS/BT_EQS.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:342][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/EQS/BT_EQS.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:342][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/EQS/BT_EQS.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:342][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/EQS/BT_EQS.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:342][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/EQS/BT_EQS.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:342][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/EQS/BT_EQS.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:342][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/EQS/BT_EQS.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:342][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/EQS/BT_EQS.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:342][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/EQS/BT_EQS.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:342][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/EQS/BT_EQS.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:342][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/EQS/BT_EQS.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:342][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/EQS/BT_EQS.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:342][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/EQS/BT_EQS.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:342][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/EQS/BT_EQS.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:342][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/EQS/BT_EQS.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:342][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/EQS/BT_EQS.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:342][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/EQS/BT_EQS.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:363][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/Strafe/EQS_StrafeLeft.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:363][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/Strafe/EQS_StrafeLeft.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:363][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/Strafe/EQS_StrafeLeft.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:363][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/Strafe/EQS_StrafeLeft.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:363][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/Strafe/EQS_StrafeLeft.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:363][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/Strafe/EQS_StrafeLeft.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:363][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/Strafe/EQS_StrafeLeft.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:363][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/Strafe/EQS_StrafeLeft.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:363][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/Strafe/EQS_StrafeLeft.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:363][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/Strafe/EQS_StrafeLeft.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:363][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/Strafe/BPService_StrafeAround.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:363][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/Strafe/BPService_StrafeAround.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:363][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/Strafe/BPService_StrafeAround.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:363][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/Strafe/BPService_StrafeAround.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:363][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/Strafe/BPService_StrafeAround.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:363][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/Strafe/BPService_StrafeAround.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:363][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/Strafe/BPService_StrafeAround.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:363][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/Strafe/BPService_StrafeAround.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:363][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/Strafe/BPService_StrafeAround.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:363][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/Strafe/BPService_StrafeAround.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:363][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/Strafe/BPService_StrafeAround.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:363][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/Strafe/BPService_StrafeAround.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:363][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/Strafe/BPService_StrafeAround.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:363][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/Strafe/BPService_StrafeAround.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:363][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/Strafe/BPService_StrafeAround.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:363][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/Strafe/BPService_StrafeAround.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:364][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/Strafe/EQS_StrafeRight.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:364][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/Strafe/EQS_StrafeRight.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:365][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/Strafe/EQS_StrafeRight.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:365][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/Strafe/EQS_StrafeRight.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:365][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/Strafe/EQS_StrafeRight.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:365][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/Strafe/EQS_StrafeRight.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:365][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/Strafe/EQS_StrafeRight.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:365][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/Strafe/EQS_StrafeRight.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:365][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/Strafe/EQS_StrafeRight.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:365][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/Strafe/EQS_StrafeRight.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:365][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/Strafe/BPService_StrafeAround.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:365][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/Strafe/BPService_StrafeAround.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:365][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/Strafe/BPService_StrafeAround.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:365][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/Strafe/BPService_StrafeAround.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:365][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/Strafe/BPService_StrafeAround.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:365][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/Strafe/BPService_StrafeAround.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:365][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/Strafe/BPService_StrafeAround.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:365][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/Strafe/BPService_StrafeAround.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:365][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/Strafe/BPService_StrafeAround.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:365][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/Strafe/BPService_StrafeAround.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:365][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/Strafe/BPService_StrafeAround.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:365][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/Strafe/BPService_StrafeAround.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:365][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/Strafe/BPService_StrafeAround.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:365][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/Strafe/BPService_StrafeAround.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:365][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/Strafe/BPService_StrafeAround.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:365][  0]LogLinker: Warning: '../../../../Unreal4/Project_RustedHeart/Content/Enemis/Strafe/BPService_StrafeAround.uasset' 로드 도중 '/Script/EnvironmentQueryEditor' 로드에 실패했습니다: 애셋에 대한 파일을 찾을 수 없습니다.
+[2023.01.30-12.08.54:552][  0]LogBlueprint: Warning: [Compiler BP_DemoRoom] Set Text (String) : 'Set Text (String)' 사용은 폐기되었습니다. Use the SetText function taking an FText instead.
+[2023.01.30-12.08.54:552][  0]LogBlueprint: Warning: [Compiler BP_DemoRoom] Set Text (String) : 'Set Text (String)' 사용은 폐기되었습니다. Use the SetText function taking an FText instead.
+[2023.01.30-12.08.55:147][  0]LogAIModule: Creating AISystem for world Demo
+[2023.01.30-12.08.55:147][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001C46EC1BE00), frame # 0
+[2023.01.30-12.08.55:147][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001C472983380), frame # 0
+[2023.01.30-12.08.55:217][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.01.30-12.08.55:256][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.01.30-12.08.55:256][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.01.30-12.08.55:256][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.087ms.
+[2023.01.30-12.08.55:256][  0]LogFileHelpers: Loading map 'Demo' took 1.466
+[2023.01.30-12.08.55:257][  0]LogUnrealEdMisc: Total Editor Startup Time, took 4.772
+[2023.01.30-12.08.55:378][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.30-12.08.55:384][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.30-12.08.55:390][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.30-12.08.55:397][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.30-12.08.55:402][  0]LogCollectionManager: Loaded 0 collections in 0.000625 seconds
+[2023.01.30-12.08.55:413][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal4/Project_RustedHeart/Saved/Collections/' took 0.00s
+[2023.01.30-12.08.55:413][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal4/Project_RustedHeart/Content/Developers/dydy0/Collections/' took 0.00s
+[2023.01.30-12.08.55:413][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal4/Project_RustedHeart/Content/Collections/' took 0.00s
+[2023.01.30-12.08.55:413][  0]LogContentBrowser: Native class hierarchy populated in 0.0060 seconds. Added 3427 classes and 821 folders.
+[2023.01.30-12.08.55:414][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0001 seconds. Added 0 classes and 0 folders.
+[2023.01.30-12.08.55:439][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.01.30-12.08.55:441][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2023.01.30-12.08.55:477][  0]LogSlate: Took 0.000106 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.01.30-12.08.55:479][  0]LogSlate: Took 0.001127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2023.01.30-12.08.55:480][  0]LogSlate: Took 0.001076 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2023.01.30-12.08.55:480][  0]LogSlate: Took 0.000057 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.01.30-12.08.55:482][  0]LogSlate: Took 0.000072 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.01.30-12.08.55:522][  0]LogRenderer: Reallocating scene render targets to support 1056x556 Format 10 NumSamples 1 (Frame:1).
+[2023.01.30-12.08.55:601][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.01.30-12.08.55:601][  0]LogLoad: (Engine Initialization) Total time: 5.12 seconds
+[2023.01.30-12.08.55:601][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.01.30-12.08.55:638][  0]LogAssetRegistry: Asset discovery search completed in 3.2928 seconds
+[2023.01.30-12.08.55:640][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2023.01.30-12.08.55:641][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.01.30-12.08.55:642][  0]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.01.30-12.08.55:774][  0]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.133 s
+[2023.01.30-12.08.55:775][  0]LogOutputDevice: Error: === Handled ensure: ===
+[2023.01.30-12.08.55:775][  0]LogOutputDevice: Error: 
+[2023.01.30-12.08.55:775][  0]LogOutputDevice: Error: Ensure condition failed: FMath::IsFinite(TexelFactor) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Classes\Engine/TextureStreamingTypes.h] [Line: 96]
+[2023.01.30-12.08.55:775][  0]LogOutputDevice: Error: 
+[2023.01.30-12.08.55:775][  0]LogOutputDevice: Error: Stack: 
+[2023.01.30-12.08.55:775][  0]LogOutputDevice: Error: [Callstack] 0x00007fffb63f8558 UE4Editor-Engine.dll!UnknownFunction []
+[2023.01.30-12.08.55:775][  0]LogOutputDevice: Error: [Callstack] 0x00007fffb4f79ab4 UE4Editor-Engine.dll!UnknownFunction []
+[2023.01.30-12.08.55:775][  0]LogOutputDevice: Error: [Callstack] 0x00007fffb5bcc4e6 UE4Editor-Engine.dll!UnknownFunction []
+[2023.01.30-12.08.55:775][  0]LogOutputDevice: Error: [Callstack] 0x00007fffb5b74431 UE4Editor-Engine.dll!UnknownFunction []
+[2023.01.30-12.08.55:775][  0]LogOutputDevice: Error: [Callstack] 0x00007fffb5b74bb4 UE4Editor-Engine.dll!UnknownFunction []
+[2023.01.30-12.08.55:775][  0]LogOutputDevice: Error: [Callstack] 0x00007fffb5b75113 UE4Editor-Engine.dll!UnknownFunction []
+[2023.01.30-12.08.55:775][  0]LogOutputDevice: Error: [Callstack] 0x00007fffb5b9270c UE4Editor-Engine.dll!UnknownFunction []
+[2023.01.30-12.08.55:775][  0]LogOutputDevice: Error: [Callstack] 0x00007fffb50b0648 UE4Editor-Engine.dll!UnknownFunction []
+[2023.01.30-12.08.55:775][  0]LogOutputDevice: Error: [Callstack] 0x00007fffb50ac46f UE4Editor-Engine.dll!UnknownFunction []
+[2023.01.30-12.08.55:775][  0]LogOutputDevice: Error: [Callstack] 0x00007fffbaddb7e4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.01.30-12.08.55:775][  0]LogOutputDevice: Error: [Callstack] 0x00007fffbb6b37e6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.01.30-12.08.55:775][  0]LogOutputDevice: Error: [Callstack] 0x00007ff6a2d77800 UE4Editor.exe!UnknownFunction []
+[2023.01.30-12.08.55:775][  0]LogOutputDevice: Error: [Callstack] 0x00007ff6a2d8ba7c UE4Editor.exe!UnknownFunction []
+[2023.01.30-12.08.55:775][  0]LogOutputDevice: Error: [Callstack] 0x00007ff6a2d8bb5a UE4Editor.exe!UnknownFunction []
+[2023.01.30-12.08.55:775][  0]LogOutputDevice: Error: [Callstack] 0x00007ff6a2d9e31d UE4Editor.exe!UnknownFunction []
+[2023.01.30-12.08.55:775][  0]LogOutputDevice: Error: [Callstack] 0x00007ff6a2da145a UE4Editor.exe!UnknownFunction []
+[2023.01.30-12.08.55:775][  0]LogOutputDevice: Error: [Callstack] 0x00007ff835a97614 KERNEL32.DLL!UnknownFunction []
+[2023.01.30-12.08.55:775][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8372e26a1 ntdll.dll!UnknownFunction []
+[2023.01.30-12.08.55:775][  0]LogOutputDevice: Error: 
+[2023.01.30-12.08.55:800][  0]LogStats:                SubmitErrorReport -  0.000 s
+[2023.01.30-12.08.56:272][  0]LogStats:                    SendNewReport -  0.471 s
+[2023.01.30-12.08.56:272][  0]LogStats:             FDebug::EnsureFailed -  0.631 s
+[2023.01.30-12.08.56:294][  0]LogSlate: Took 0.000132 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.01.30-12.08.56:407][  2]LogScript: Warning: Player 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	ABP_Player_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_0
+	Function /Game/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:0129
+[2023.01.30-12.08.56:537][  8]LogSlate: Took 0.000100 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.01.30-12.14.58:249][211]LogSlate: Took 0.000120 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.01.30-12.14.58:261][211]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Character/Armors/Arm/Hend_r.Hend_r
+[2023.01.30-12.14.58:265][211]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2023.01.30-12.14.58:380][211]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.01.30-12.14.58:381][211]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2023.01.30-12.14.58:593][211]LogRenderer: Reallocating scene render targets to support 1144x884 Format 10 NumSamples 1 (Frame:1).
+[2023.01.30-12.15.15:515][805]LogSlate: Window '새 애니메이션 애셋 생성' being destroyed
+[2023.01.30-12.15.22:516][219]LogSlate: Window '새 애니메이션 애셋 생성' being destroyed
+[2023.01.30-12.15.22:542][219]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.01.30-12.15.22:740][219]LogContentBrowser: Verbose: The majority of assets in the view are of type: PoseAsset
+[2023.01.30-12.15.35:917][632]Cmd: TRANSACTION UNDO
+[2023.01.30-12.15.35:917][632]LogEditorTransaction: Undo 본 회전
+[2023.01.30-12.15.35:999][632]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.01.30-12.15.36:000][632]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.01.30-12.17.40:689][594]LogSlate: Window '새 애니메이션 애셋 생성' being destroyed
+[2023.01.30-12.17.40:737][595]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Armors/Arm/Hend_r_Skeleton_Sequence.Hend_r_Skeleton_Sequence
+[2023.01.30-12.17.45:795][127]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Armors/Arm/Hend_r_Skeleton_Sequence.Hend_r_Skeleton_Sequence
+[2023.01.30-12.18.10:464][984]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Armors/Arm/Hend_r_Skeleton_Sequence.Hend_r_Skeleton_Sequence
+[2023.01.30-12.18.55:645][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.01.30-12.18.55:647][541]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Demo' took 0.015
+[2023.01.30-12.18.55:648][541]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character/Armors/Arm/Hend_r_Skeleton] ([1] browsable assets)...
+[2023.01.30-12.18.55:648][541]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Armors/Arm/Hend_r_Skeleton]
+[2023.01.30-12.18.55:650][541]LogSavePackage: Moving '../../../../Unreal4/Project_RustedHeart/Saved/Hend_r_Skeleton_Auto1878FEE8D4D5638A53D0CF5998BB43A88.tmp' to '../../../../Unreal4/Project_RustedHeart/Saved/Autosaves/Game/Character/Armors/Arm/Hend_r_Skeleton_Auto1.uasset'
+[2023.01.30-12.18.55:650][541]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character/Armors/Arm/Hend_r_Skeleton_PoseAsset] ([1] browsable assets)...
+[2023.01.30-12.18.55:650][541]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Armors/Arm/Hend_r_Skeleton_PoseAsset]
+[2023.01.30-12.18.55:651][541]LogSavePackage: Moving '../../../../Unreal4/Project_RustedHeart/Saved/Hend_r_Skeleton_PoseAsset_Auto11EC0A6B84EA6CEEA3F921AAAA18A098D.tmp' to '../../../../Unreal4/Project_RustedHeart/Saved/Autosaves/Game/Character/Armors/Arm/Hend_r_Skeleton_PoseAsset_Auto1.uasset'
+[2023.01.30-12.18.55:653][541]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Armors/Arm/Hend_r_Skeleton_Sequence] ([1] browsable assets)...
+[2023.01.30-12.18.55:665][541]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Character/Armors/Arm/Hend_r_Skeleton_Sequence.Hend_r_Skeleton_Sequence]
+[2023.01.30-12.18.55:665][541]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Armors/Arm/Hend_r_Skeleton_Sequence]
+[2023.01.30-12.18.55:672][541]LogSavePackage: Moving '../../../../Unreal4/Project_RustedHeart/Saved/Hend_r_Skeleton_Sequence_Auto1FC3BC76345C42B59C56ED69BD9FD154E.tmp' to '../../../../Unreal4/Project_RustedHeart/Saved/Autosaves/Game/Character/Armors/Arm/Hend_r_Skeleton_Sequence_Auto1.uasset'
+[2023.01.30-12.18.55:672][541]LogFileHelpers: Auto-saving content packages took 0.025
+[2023.01.30-12.19.06:358][ 39]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Demo" FILE="../../../../Unreal4/Project_RustedHeart/Content/Maps/Demo.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.01.30-12.19.06:369][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.01.30-12.19.06:455][ 39]LogSavePackage: Moving '../../../../Unreal4/Project_RustedHeart/Saved/Demo25666C1349BF099E879CCEA071363E9F.tmp' to '../../../../Unreal4/Project_RustedHeart/Content/Maps/Demo.umap'
+[2023.01.30-12.19.06:468][ 39]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Demo_BuiltData" FILE="../../../../Unreal4/Project_RustedHeart/Content/Maps/Demo_BuiltData.uasset" SILENT=true
+[2023.01.30-12.19.07:484][ 39]LogSavePackage: Moving '../../../../Unreal4/Project_RustedHeart/Saved/Demo_BuiltDataE3F527B24153A5207CDAC4A976539002.tmp' to '../../../../Unreal4/Project_RustedHeart/Content/Maps/Demo_BuiltData.uasset'
+[2023.01.30-12.19.07:510][ 39]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
+[2023.01.30-12.19.07:511][ 39]LogContentValidation: Display: World /Game/Maps/Demo.Demo 유효성 검사
+[2023.01.30-12.19.07:511][ 39]LogContentValidation: Display: MapBuildDataRegistry /Game/Maps/Demo_BuiltData.Demo_BuiltData 유효성 검사
+[2023.01.30-12.19.12:961][462]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.01.30-12.19.13:972][462]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.30-12.19.14:442][462]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Character/Armors/Arm/Hend_r_Skeleton_PoseAsset.Hend_r_Skeleton_PoseAsset
+[2023.01.30-12.19.15:044][462]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.01.30-12.19.16:123][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Armors/Arm/Hend_r_Skeleton" FILE="../../../../Unreal4/Project_RustedHeart/Content/Character/Armors/Arm/Hend_r_Skeleton.uasset" SILENT=true
+[2023.01.30-12.19.16:125][537]LogSavePackage: Moving '../../../../Unreal4/Project_RustedHeart/Saved/Hend_r_SkeletonA3BEC10D4A28F73E837C9AA596EA5E17.tmp' to '../../../../Unreal4/Project_RustedHeart/Content/Character/Armors/Arm/Hend_r_Skeleton.uasset'
+[2023.01.30-12.19.16:126][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Armors/Arm/Hend_r_Skeleton_Sequence" FILE="../../../../Unreal4/Project_RustedHeart/Content/Character/Armors/Arm/Hend_r_Skeleton_Sequence.uasset" SILENT=true
+[2023.01.30-12.19.16:130][537]LogSavePackage: Moving '../../../../Unreal4/Project_RustedHeart/Saved/Hend_r_Skeleton_SequenceE6DCD93E48C5E2265A0387BB2FAE8A91.tmp' to '../../../../Unreal4/Project_RustedHeart/Content/Character/Armors/Arm/Hend_r_Skeleton_Sequence.uasset'
+[2023.01.30-12.19.16:142][537]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
+[2023.01.30-12.19.16:142][537]LogContentValidation: Display: Skeleton /Game/Character/Armors/Arm/Hend_r_Skeleton.Hend_r_Skeleton 유효성 검사
+[2023.01.30-12.19.16:142][537]LogContentValidation: Display: AnimSequence /Game/Character/Armors/Arm/Hend_r_Skeleton_Sequence.Hend_r_Skeleton_Sequence 유효성 검사
+[2023.01.30-12.19.43:781][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.01.30-12.19.44:710][ 86]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.30-12.19.45:380][ 86]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Character/Armors/Arm/ABP_.ABP_
+[2023.01.30-12.19.45:653][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.01.30-12.20.08:325][238]LogScript: Warning: Player 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	ABP_Hand_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Hand_C_0
+	Function /Game/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:0129
+[2023.01.30-12.20.11:862][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/ABP_Hand" FILE="../../../../Unreal4/Project_RustedHeart/Content/Player/ABP_Hand.uasset" SILENT=true
+[2023.01.30-12.20.11:870][493]LogSavePackage: Moving '../../../../Unreal4/Project_RustedHeart/Saved/ABP_HandD601FA1F45A4CB5617B8F5BC7E9C1C5A.tmp' to '../../../../Unreal4/Project_RustedHeart/Content/Player/ABP_Hand.uasset'
+[2023.01.30-12.20.11:877][493]AssetCheck: New page: 애셋 저장: ABP_Hand
+[2023.01.30-12.20.11:878][493]LogContentValidation: Display: AnimBlueprint /Game/Player/ABP_Hand.ABP_Hand 유효성 검사
+[2023.01.30-12.20.12:440][541]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Player/ABP_Hand.ABP_Hand
+[2023.01.30-12.20.12:445][541]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.01.30-12.20.12:445][541]LogScript: Warning: Player 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	ABP_Hand_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Hand_C_0
+	Function /Game/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:0129
+[2023.01.30-12.20.12:634][541]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0003 seconds. Added 125 classes and 0 folders.
+[2023.01.30-12.20.13:054][541]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2023.01.30-12.20.13:166][541]LogScript: Warning: Player 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	ABP_Hand_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Hand_C_0
+	Function /Game/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:0129
+[2023.01.30-12.20.13:177][541]LogSlate: Took 0.003161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.01.30-12.20.13:223][541]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.01.30-12.20.13:234][542]LogScript: Warning: Player 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	ABP_Hand_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Hand_C_0
+	Function /Game/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:0129
+[2023.01.30-12.20.13:259][543]LogScript: Warning: Player 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	ABP_Hand_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Hand_C_0
+	Function /Game/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:0129
+[2023.01.30-12.20.13:268][544]LogScript: Warning: Player 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	ABP_Hand_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Hand_C_0
+	Function /Game/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:0129
+[2023.01.30-12.20.13:278][545]LogScript: Warning: Player 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	ABP_Hand_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Hand_C_0
+	Function /Game/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:0129
+[2023.01.30-12.20.13:287][546]LogScript: Warning: Player 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	ABP_Hand_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Hand_C_0
+	Function /Game/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:0129
+[2023.01.30-12.20.13:314][547]LogScript: Warning: Player 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	ABP_Hand_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Hand_C_0
+	Function /Game/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:0129
+[2023.01.30-12.20.13:341][548]LogScript: Warning: Player 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	ABP_Hand_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Hand_C_0
+	Function /Game/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:0129
+[2023.01.30-12.20.13:382][549]LogScript: Warning: Player 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	ABP_Hand_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Hand_C_0
+	Function /Game/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:0129
+[2023.01.30-12.20.13:408][550]LogScript: Warning: Player 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	ABP_Hand_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Hand_C_0
+	Function /Game/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:0129
+[2023.01.30-12.20.13:416][551]LogScript: Warning: Player 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	ABP_Hand_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Hand_C_0
+	Function /Game/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:0129
+[2023.01.30-12.20.13:425][552]LogScript: Warning: Player 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	ABP_Hand_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Hand_C_0
+	Function /Game/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:0129
+[2023.01.30-12.20.13:434][553]LogScript: Warning: Player 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	ABP_Hand_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Hand_C_0
+	Function /Game/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:0129
+[2023.01.30-12.20.13:443][554]LogScript: Warning: Player 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	ABP_Hand_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Hand_C_0
+	Function /Game/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:0129
+[2023.01.30-12.20.13:452][555]LogScript: Warning: Player 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	ABP_Hand_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Hand_C_0
+	Function /Game/Player/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:0129
+[2023.01.30-12.20.20:604][293]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.01.30-12.20.20:604][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.30-12.20.20:606][293]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.01.30-12.20.20:606][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.30-12.20.20:625][293]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.01.30-12.20.20:626][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.30-12.20.22:835][480]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.01.30-12.20.24:073][480]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.30-12.20.25:007][480]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Player/ABP_Hand.ABP_Hand
+[2023.01.30-12.20.28:888][480]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.01.30-12.20.28:904][480]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.01.30-12.20.28:919][480]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.01.30-12.20.36:874][956]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player/BP_Player_Armored.BP_Player_Armored
+[2023.01.30-12.34.28:651][599]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Hend_l.fbx)
+[2023.01.30-12.34.28:675][599]LogFbx: Loading FBX Scene from D:\Hend_l.fbx
+[2023.01.30-12.34.28:800][599]LogFbx: FBX Scene Loaded Succesfully
+[2023.01.30-12.34.34:250][599]LogSlate: Window 'FBX 임포트 옵션' being destroyed
+[2023.01.30-12.34.34:271][599]LogFbx: Valid bind pose for Pose (Sphere.021) - finger
+[2023.01.30-12.34.34:271][599]LogFbx: Valid bind pose for Pose (Sphere.003) - finger
+[2023.01.30-12.34.34:271][599]LogFbx: Valid bind pose for Pose (Sphere.010) - finger
+[2023.01.30-12.34.34:272][599]LogFbx: Valid bind pose for Pose (Sphere.002) - finger
+[2023.01.30-12.34.34:272][599]LogFbx: Valid bind pose for Pose (Sphere.004) - finger
+[2023.01.30-12.34.34:272][599]LogFbx: Valid bind pose for Pose (Sphere.011) - finger
+[2023.01.30-12.34.34:272][599]LogFbx: Valid bind pose for Pose (Sphere.006) - finger
+[2023.01.30-12.34.34:272][599]LogFbx: Valid bind pose for Pose (Sphere.005) - finger
+[2023.01.30-12.34.34:272][599]LogFbx: Valid bind pose for Pose (Sphere.012) - finger
+[2023.01.30-12.34.34:272][599]LogFbx: Valid bind pose for Pose (Sphere.014) - finger
+[2023.01.30-12.34.34:272][599]LogFbx: Valid bind pose for Pose (Cube.008) - finger
+[2023.01.30-12.34.34:272][599]LogFbx: Valid bind pose for Pose (Sphere.001) - finger
+[2023.01.30-12.34.34:272][599]LogFbx: Valid bind pose for Pose (Sphere.008) - finger
+[2023.01.30-12.34.34:273][599]LogFbx: Valid bind pose for Pose (Sphere.013) - finger
+[2023.01.30-12.34.34:365][599]LogMaterial: Display: Material /Game/Character/Armors/Arm/balljoints_m.balljoints_m needed to have new flag set bUsedWithSkeletalMesh !
+[2023.01.30-12.34.34:366][599]LogMaterial: Display: Missing cached shader map for material balljoints_m, compiling. 
+[2023.01.30-12.34.34:392][599]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 39
+[2023.01.30-12.34.34:392][599]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 35
+[2023.01.30-12.34.34:392][599]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 31
+[2023.01.30-12.34.34:392][599]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 27
+[2023.01.30-12.34.34:392][599]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 23
+[2023.01.30-12.34.34:392][599]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 19
+[2023.01.30-12.34.34:392][599]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 15
+[2023.01.30-12.34.34:392][599]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 11
+[2023.01.30-12.34.34:392][599]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 7
+[2023.01.30-12.34.34:392][599]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2023.01.30-12.34.34:394][599]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\dydy0\Downloads\robotic-prosthetic-arm\source\arm.fbm\arm_balljoints_m_BaseColor.png
+[2023.01.30-12.34.34:394][599]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\dydy0\Downloads\robotic-prosthetic-arm\source\arm.fbm\arm_balljoints_m_Roughness.png
+[2023.01.30-12.34.34:394][599]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\dydy0\Downloads\robotic-prosthetic-arm\source\arm.fbm\arm_balljoints_m_Normal.png
+[2023.01.30-12.34.34:395][599]LogMaterial: Display: Missing cached shader map for material balljoints_m, compiling. 
+[2023.01.30-12.34.34:428][599]LogMaterial: Display: Material /Game/Character/Armors/Arm/fingers_m.fingers_m needed to have new flag set bUsedWithSkeletalMesh !
+[2023.01.30-12.34.34:433][599]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 39
+[2023.01.30-12.34.34:433][599]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 35
+[2023.01.30-12.34.34:452][599]LogMaterial: Display: Missing cached shader map for material fingers_m, compiling. 
+[2023.01.30-12.34.34:465][599]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\dydy0\Downloads\robotic-prosthetic-arm\source\arm.fbm\arm_fingers_m_BaseColor.png
+[2023.01.30-12.34.34:465][599]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\dydy0\Downloads\robotic-prosthetic-arm\source\arm.fbm\arm_fingers_m_Roughness.png
+[2023.01.30-12.34.34:465][599]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\dydy0\Downloads\robotic-prosthetic-arm\source\arm.fbm\arm_fingers_m_Normal.png
+[2023.01.30-12.34.34:467][599]LogMaterial: Display: Missing cached shader map for material fingers_m, compiling. 
+[2023.01.30-12.34.34:482][599]LogFbx: Triangulating skeletal mesh finger
+[2023.01.30-12.34.34:815][599]LogFbx: Triangulating skeletal mesh finger.004
+[2023.01.30-12.34.35:093][599]LogFbx: Triangulating skeletal mesh finger.008
+[2023.01.30-12.34.35:377][599]LogFbx: Triangulating skeletal mesh finger.002
+[2023.01.30-12.34.35:640][599]LogFbx: Triangulating skeletal mesh finger.005
+[2023.01.30-12.34.35:922][599]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 70
+[2023.01.30-12.34.35:922][599]LogFbx: Triangulating skeletal mesh finger.009
+[2023.01.30-12.34.36:186][599]LogFbx: Triangulating skeletal mesh finger.001
+[2023.01.30-12.34.36:480][599]LogFbx: Triangulating skeletal mesh finger.006
+[2023.01.30-12.34.36:739][599]LogFbx: Triangulating skeletal mesh finger.010
+[2023.01.30-12.34.36:992][599]LogFbx: Triangulating skeletal mesh finger.013
+[2023.01.30-12.34.37:298][599]LogMaterial: Display: Material /Game/Character/Armors/Arm/hand_m.hand_m needed to have new flag set bUsedWithSkeletalMesh !
+[2023.01.30-12.34.37:301][599]LogMaterial: Display: Missing cached shader map for material hand_m, compiling. 
+[2023.01.30-12.34.37:316][599]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\dydy0\Downloads\robotic-prosthetic-arm\source\arm.fbm\arm_hand_m_BaseColor.png
+[2023.01.30-12.34.37:317][599]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\dydy0\Downloads\robotic-prosthetic-arm\source\arm.fbm\arm_hand_m_Roughness.png
+[2023.01.30-12.34.37:317][599]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\dydy0\Downloads\robotic-prosthetic-arm\source\arm.fbm\arm_hand_m_Normal.png
+[2023.01.30-12.34.37:319][599]LogMaterial: Display: Missing cached shader map for material hand_m, compiling. 
+[2023.01.30-12.34.37:334][599]LogFbx: Triangulating skeletal mesh palm
+[2023.01.30-12.34.37:635][599]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 103
+[2023.01.30-12.34.37:635][599]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 94
+[2023.01.30-12.34.37:635][599]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 86
+[2023.01.30-12.34.37:635][599]LogFbx: Triangulating skeletal mesh finger.003
+[2023.01.30-12.34.37:898][599]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 78
+[2023.01.30-12.34.37:898][599]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 71
+[2023.01.30-12.34.37:898][599]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 65
+[2023.01.30-12.34.37:898][599]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 59
+[2023.01.30-12.34.37:898][599]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 54
+[2023.01.30-12.34.37:898][599]LogFbx: Triangulating skeletal mesh finger.007
+[2023.01.30-12.34.38:189][599]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 49
+[2023.01.30-12.34.38:189][599]LogFbx: Triangulating skeletal mesh finger.011
+[2023.01.30-12.34.38:690][599]LogFbx: Warning: Bones digested - 23  Depth of hierarchy - 7
+[2023.01.30-12.34.39:472][599]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 44
+[2023.01.30-12.34.39:472][599]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 40
+[2023.01.30-12.34.39:836][599]LogSkeletalMesh: Display: 스켈레탈 ComputeTangents MikkTSpce 함수: 길이가 0인 노멀 벡터 연산.
+[2023.01.30-12.34.42:705][599]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 36
+[2023.01.30-12.34.42:705][599]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 32
+[2023.01.30-12.34.42:705][599]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 29
+[2023.01.30-12.34.42:705][599]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 26
+[2023.01.30-12.34.42:705][599]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 23
+[2023.01.30-12.34.42:705][599]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 21
+[2023.01.30-12.34.42:705][599]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 19
+[2023.01.30-12.34.43:538][599]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 17
+[2023.01.30-12.34.43:538][599]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 15
+[2023.01.30-12.34.43:538][599]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 13
+[2023.01.30-12.34.43:538][599]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 11
+[2023.01.30-12.34.43:742][599]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 10
+[2023.01.30-12.34.43:742][599]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 9
+[2023.01.30-12.34.43:742][599]LogSkeletalMesh: Section 0: 132938 vertices, 13 active bones
+[2023.01.30-12.34.43:749][599]LogSkeletalMesh: Section 1: 47061 vertices, 13 active bones
+[2023.01.30-12.34.43:751][599]LogSkeletalMesh: Section 2: 15413 vertices, 1 active bones
+[2023.01.30-12.34.43:774][599]LogSkeletalMesh: Section 0: Material=0, 250848 triangles
+[2023.01.30-12.34.43:774][599]LogSkeletalMesh: Section 1: Material=1, 88304 triangles
+[2023.01.30-12.34.43:774][599]LogSkeletalMesh: Section 2: Material=2, 29131 triangles
+[2023.01.30-12.34.43:796][599]LogSkeletalMesh: Building Skeletal Mesh Hend_l...
+[2023.01.30-12.34.44:075][599]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 8
+[2023.01.30-12.34.44:075][599]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 7
+[2023.01.30-12.34.44:075][599]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 6
+[2023.01.30-12.34.44:075][599]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2023.01.30-12.34.44:075][599]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 4
+[2023.01.30-12.34.44:482][599]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2023.01.30-12.34.44:482][599]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2023.01.30-12.34.44:482][599]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2023.01.30-12.34.44:482][599]LogSkeletalMesh: Display: 스켈레탈 ComputeTangents MikkTSpce 함수: 길이가 0인 노멀 벡터 연산.
+[2023.01.30-12.34.48:145][599]LogSkeletalMesh: Section 0: 132938 vertices, 13 active bones
+[2023.01.30-12.34.48:149][599]LogSkeletalMesh: Section 1: 47061 vertices, 13 active bones
+[2023.01.30-12.34.48:151][599]LogSkeletalMesh: Section 2: 15413 vertices, 1 active bones
+[2023.01.30-12.34.48:176][599]LogSkeletalMesh: Section 0: Material=0, 250848 triangles
+[2023.01.30-12.34.48:176][599]LogSkeletalMesh: Section 1: Material=1, 88304 triangles
+[2023.01.30-12.34.48:176][599]LogSkeletalMesh: Section 2: Material=2, 29131 triangles
+[2023.01.30-12.34.48:645][599]LogSkeletalMesh: Built Skeletal Mesh [4.85s] /Game/Character/Armors/Arm/Hend_l.Hend_l
+[2023.01.30-12.34.48:769][599]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_22:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2023.01.30-12.34.48:807][599]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.01.30-12.34.48:807][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.30-12.34.48:833][599]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2023.01.30-12.34.48:833][599]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.01.30-12.34.48:833][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.30-12.34.48:859][599]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.01.30-12.34.48:892][599]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.01.30-12.34.49:092][599]FBXImport: Warning: 이 FBX 씬에 스무딩 그룹 정보가 없습니다. FBX 익스포트 플러그인에서 파일을 익스포트하기 전, 'Export Smoothing Groups' (스무딩 그룹 익스포트)를 켰는지 확인해 주시기 바랍니다. 스무딩 그룹을 지원하지 않는 툴의 경우에도, 임포트시 버텍스 노멀을 제대로 유추할 수 있도록 FBX 익스포터가 익스포트시 적합한 스무딩 데이터를 생성해 줍니다. 
+[2023.01.30-12.34.49:092][599]FBXImport: Warning: 'Hend_l' 스켈레탈 메시에서 'Hend_l_PhysicsAsset' 피직스 애셋을 생성하기에 본 크기가 너무 작습니다. 피직스 애셋을 수동 생성해야 할 것입니다. 
+[2023.01.30-12.34.49:390][599]LogSlate: Took 0.004116 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.01.30-12.34.49:395][599]LogSlate: Took 0.004910 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
+[2023.01.30-12.34.49:656][600]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.01.30-12.34.49:657][600]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Demo' took 0.019
+[2023.01.30-12.34.49:657][600]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Armors/Arm/Hend_l] ([1] browsable assets)...
+[2023.01.30-12.34.49:672][600]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Character/Armors/Arm/Hend_l.Hend_l]
+[2023.01.30-12.34.49:672][600]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Armors/Arm/Hend_l]
+[2023.01.30-12.34.49:672][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Armors/Arm/Hend_l" FILE="../../../../Unreal4/Project_RustedHeart/Saved/Autosaves/Game/Character/Armors/Arm/Hend_l_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2023.01.30-12.34.50:178][600]LogSavePackage: Moving '../../../../Unreal4/Project_RustedHeart/Saved/Hend_l_Auto20C0B31424DAE9F111A07829A4CDAF16D.tmp' to '../../../../Unreal4/Project_RustedHeart/Saved/Autosaves/Game/Character/Armors/Arm/Hend_l_Auto2.uasset'
+[2023.01.30-12.34.50:178][600]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Armors/Arm/balljoints_m] ([1] browsable assets)...
+[2023.01.30-12.34.50:186][600]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Character/Armors/Arm/balljoints_m.balljoints_m]
+[2023.01.30-12.34.50:186][600]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Armors/Arm/balljoints_m]
+[2023.01.30-12.34.50:190][600]LogSavePackage: Moving '../../../../Unreal4/Project_RustedHeart/Saved/balljoints_m_Auto2607FAE2B461BC13A6A8D639DC0D1050B.tmp' to '../../../../Unreal4/Project_RustedHeart/Saved/Autosaves/Game/Character/Armors/Arm/balljoints_m_Auto2.uasset'
+[2023.01.30-12.34.50:190][600]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Armors/Arm/fingers_m] ([1] browsable assets)...
+[2023.01.30-12.34.50:198][600]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Character/Armors/Arm/fingers_m.fingers_m]
+[2023.01.30-12.34.50:198][600]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Armors/Arm/fingers_m]
+[2023.01.30-12.34.50:202][600]LogSavePackage: Moving '../../../../Unreal4/Project_RustedHeart/Saved/fingers_m_Auto2A14596E9423F615CBAD4C2B849EEC0A6.tmp' to '../../../../Unreal4/Project_RustedHeart/Saved/Autosaves/Game/Character/Armors/Arm/fingers_m_Auto2.uasset'
+[2023.01.30-12.34.50:202][600]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character/Armors/Arm/Hend_l_Skeleton] ([1] browsable assets)...
+[2023.01.30-12.34.50:202][600]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Armors/Arm/Hend_l_Skeleton]
+[2023.01.30-12.34.50:203][600]LogSavePackage: Moving '../../../../Unreal4/Project_RustedHeart/Saved/Hend_l_Skeleton_Auto285E601194D2A51C46E2DDDBD5D8563FF.tmp' to '../../../../Unreal4/Project_RustedHeart/Saved/Autosaves/Game/Character/Armors/Arm/Hend_l_Skeleton_Auto2.uasset'
+[2023.01.30-12.34.50:203][600]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Armors/Arm/hand_m] ([1] browsable assets)...
+[2023.01.30-12.34.50:210][600]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Character/Armors/Arm/hand_m.hand_m]
+[2023.01.30-12.34.50:210][600]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Armors/Arm/hand_m]
+[2023.01.30-12.34.50:210][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Armors/Arm/hand_m" FILE="../../../../Unreal4/Project_RustedHeart/Saved/Autosaves/Game/Character/Armors/Arm/hand_m_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2023.01.30-12.34.50:214][600]LogSavePackage: Moving '../../../../Unreal4/Project_RustedHeart/Saved/hand_m_Auto260211B31404BB3C8FE69C28CF880D44B.tmp' to '../../../../Unreal4/Project_RustedHeart/Saved/Autosaves/Game/Character/Armors/Arm/hand_m_Auto2.uasset'
+[2023.01.30-12.34.50:214][600]LogFileHelpers: Auto-saving content packages took 0.558
+[2023.01.30-12.34.55:473][125]LogSlate: Window '메시지 로그' being destroyed
+[2023.01.30-12.34.55:475][125]LogSlate: Window '메시지 로그' being destroyed
+[2023.01.30-12.34.58:148][316]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Character/Armors/Arm/Hend_l.Hend_l
+[2023.01.30-12.34.58:152][316]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.01.30-12.35.28:811][302]LogEditorFactories: Performing atomic reimport of [D:/Hend_l.fbx]
+[2023.01.30-12.35.28:853][302]LogFbx: Loading FBX Scene from D:/Hend_l.fbx
+[2023.01.30-12.35.28:977][302]LogFbx: FBX Scene Loaded Succesfully
+[2023.01.30-12.35.28:997][302]LogFbx: Valid bind pose for Pose (Sphere.021) - finger
+[2023.01.30-12.35.28:997][302]LogFbx: Valid bind pose for Pose (Sphere.003) - finger
+[2023.01.30-12.35.28:997][302]LogFbx: Valid bind pose for Pose (Sphere.010) - finger
+[2023.01.30-12.35.28:997][302]LogFbx: Valid bind pose for Pose (Cube.006) - finger
+[2023.01.30-12.35.28:997][302]LogFbx: Valid bind pose for Pose (Sphere.002) - finger
+[2023.01.30-12.35.28:997][302]LogFbx: Valid bind pose for Pose (Sphere.004) - finger
+[2023.01.30-12.35.28:997][302]LogFbx: Valid bind pose for Pose (Sphere.011) - finger
+[2023.01.30-12.35.28:997][302]LogFbx: Valid bind pose for Pose (Sphere.009) - finger
+[2023.01.30-12.35.28:997][302]LogFbx: Valid bind pose for Pose (Sphere.006) - finger
+[2023.01.30-12.35.28:997][302]LogFbx: Valid bind pose for Pose (Sphere.005) - finger
+[2023.01.30-12.35.28:998][302]LogFbx: Valid bind pose for Pose (Sphere.012) - finger
+[2023.01.30-12.35.28:998][302]LogFbx: Valid bind pose for Pose (Sphere.014) - finger
+[2023.01.30-12.35.28:998][302]LogFbx: Valid bind pose for Pose (Cube.008) - finger
+[2023.01.30-12.35.28:998][302]LogFbx: Valid bind pose for Pose (Sphere.001) - finger
+[2023.01.30-12.35.28:998][302]LogFbx: Valid bind pose for Pose (Sphere.008) - finger
+[2023.01.30-12.35.28:998][302]LogFbx: Valid bind pose for Pose (Sphere.013) - finger
+[2023.01.30-12.35.29:002][302]LogFbx: Triangulating skeletal mesh finger
+[2023.01.30-12.35.29:222][302]LogFbx: Triangulating skeletal mesh finger.004
+[2023.01.30-12.35.29:440][302]LogFbx: Triangulating skeletal mesh finger.008
+[2023.01.30-12.35.29:669][302]LogFbx: Triangulating skeletal mesh thumb base
+[2023.01.30-12.35.29:689][302]LogFbx: Triangulating skeletal mesh finger.002
+[2023.01.30-12.35.29:906][302]LogFbx: Triangulating skeletal mesh finger.005
+[2023.01.30-12.35.30:150][302]LogFbx: Triangulating skeletal mesh finger.009
+[2023.01.30-12.35.30:382][302]LogFbx: Triangulating skeletal mesh finger.012
+[2023.01.30-12.35.30:635][302]LogFbx: Triangulating skeletal mesh finger.001
+[2023.01.30-12.35.30:871][302]LogFbx: Triangulating skeletal mesh finger.006
+[2023.01.30-12.35.31:109][302]LogFbx: Triangulating skeletal mesh finger.010
+[2023.01.30-12.35.31:342][302]LogFbx: Triangulating skeletal mesh finger.013
+[2023.01.30-12.35.31:588][302]LogFbx: Triangulating skeletal mesh palm
+[2023.01.30-12.35.31:857][302]LogFbx: Triangulating skeletal mesh finger.003
+[2023.01.30-12.35.32:090][302]LogFbx: Triangulating skeletal mesh finger.007
+[2023.01.30-12.35.32:325][302]LogFbx: Triangulating skeletal mesh finger.011
+[2023.01.30-12.35.32:777][302]LogFbx: Warning: Bones digested - 23  Depth of hierarchy - 7
+[2023.01.30-12.35.33:917][302]LogSkeletalMesh: Display: 스켈레탈 ComputeTangents MikkTSpce 함수: 길이가 0인 노멀 벡터 연산.
+[2023.01.30-12.35.37:747][302]LogSkeletalMesh: Section 0: 143164 vertices, 14 active bones
+[2023.01.30-12.35.37:753][302]LogSkeletalMesh: Section 1: 50889 vertices, 14 active bones
+[2023.01.30-12.35.37:754][302]LogSkeletalMesh: Section 2: 16626 vertices, 2 active bones
+[2023.01.30-12.35.37:772][302]LogSkeletalMesh: Section 0: Material=0, 270144 triangles
+[2023.01.30-12.35.37:772][302]LogSkeletalMesh: Section 1: Material=1, 95504 triangles
+[2023.01.30-12.35.37:772][302]LogSkeletalMesh: Section 2: Material=2, 31435 triangles
+[2023.01.30-12.35.37:812][302]LogEditorFactories: -- imported successfully
+[2023.01.30-12.35.37:818][302]LogSkeletalMesh: Building Skeletal Mesh Hend_l...
+[2023.01.30-12.35.38:475][302]LogSkeletalMesh: Display: 스켈레탈 ComputeTangents MikkTSpce 함수: 길이가 0인 노멀 벡터 연산.
+[2023.01.30-12.35.42:273][302]LogSkeletalMesh: Section 0: 143164 vertices, 14 active bones
+[2023.01.30-12.35.42:276][302]LogSkeletalMesh: Section 1: 50889 vertices, 14 active bones
+[2023.01.30-12.35.42:278][302]LogSkeletalMesh: Section 2: 16626 vertices, 2 active bones
+[2023.01.30-12.35.42:296][302]LogSkeletalMesh: Section 0: Material=0, 270144 triangles
+[2023.01.30-12.35.42:296][302]LogSkeletalMesh: Section 1: Material=1, 95504 triangles
+[2023.01.30-12.35.42:296][302]LogSkeletalMesh: Section 2: Material=2, 31435 triangles
+[2023.01.30-12.35.42:820][302]LogSkeletalMesh: Built Skeletal Mesh [5.00s] /Game/Character/Armors/Arm/Hend_l.Hend_l
+[2023.01.30-12.35.42:870][302]FBXImport: Warning: 이 FBX 씬에 스무딩 그룹 정보가 없습니다. FBX 익스포트 플러그인에서 파일을 익스포트하기 전, 'Export Smoothing Groups' (스무딩 그룹 익스포트)를 켰는지 확인해 주시기 바랍니다. 스무딩 그룹을 지원하지 않는 툴의 경우에도, 임포트시 버텍스 노멀을 제대로 유추할 수 있도록 FBX 익스포터가 익스포트시 적합한 스무딩 데이터를 생성해 줍니다. 
+[2023.01.30-12.35.56:830][410]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Character/Armors/Arm/Hend_l_Skeleton.Hend_l_Skeleton
+[2023.01.30-12.35.56:832][410]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.01.30-12.36.26:430][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Armors/Arm/Hend_l_Skeleton" FILE="../../../../Unreal4/Project_RustedHeart/Content/Character/Armors/Arm/Hend_l_Skeleton.uasset" SILENT=true
+[2023.01.30-12.36.26:431][458]LogSavePackage: Moving '../../../../Unreal4/Project_RustedHeart/Saved/Hend_l_Skeleton50C028714A4DC1F34C84E2B66F035546.tmp' to '../../../../Unreal4/Project_RustedHeart/Content/Character/Armors/Arm/Hend_l_Skeleton.uasset'
+[2023.01.30-12.36.26:444][458]AssetCheck: New page: 애셋 저장: Hend_l_Skeleton
+[2023.01.30-12.36.26:444][458]LogContentValidation: Display: Skeleton /Game/Character/Armors/Arm/Hend_l_Skeleton.Hend_l_Skeleton 유효성 검사
+[2023.01.30-12.36.56:780][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Armors/Arm/Hend_l_Skeleton" FILE="../../../../Unreal4/Project_RustedHeart/Content/Character/Armors/Arm/Hend_l_Skeleton.uasset" SILENT=true
+[2023.01.30-12.36.56:782][781]LogSavePackage: Moving '../../../../Unreal4/Project_RustedHeart/Saved/Hend_l_SkeletonB865F57E4BAEF1150EC590AB0A3D3137.tmp' to '../../../../Unreal4/Project_RustedHeart/Content/Character/Armors/Arm/Hend_l_Skeleton.uasset'
+[2023.01.30-12.36.56:789][781]AssetCheck: New page: 애셋 저장: Hend_l_Skeleton
+[2023.01.30-12.36.56:789][781]LogContentValidation: Display: Skeleton /Game/Character/Armors/Arm/Hend_l_Skeleton.Hend_l_Skeleton 유효성 검사
+[2023.01.30-12.37.00:855][111]Cmd: ACTOR SELECT OFCLASS CLASS=BP_ActorOverlap_C
+[2023.01.30-12.37.02:913][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Armors/Arm/hand_m" FILE="../../../../Unreal4/Project_RustedHeart/Content/Character/Armors/Arm/hand_m.uasset" SILENT=true
+[2023.01.30-12.37.02:914][274]LogSavePackage: Moving '../../../../Unreal4/Project_RustedHeart/Saved/hand_m371435CA40ABEFDB95CA15B22711DB7F.tmp' to '../../../../Unreal4/Project_RustedHeart/Content/Character/Armors/Arm/hand_m.uasset'
+[2023.01.30-12.37.02:914][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Armors/Arm/fingers_m" FILE="../../../../Unreal4/Project_RustedHeart/Content/Character/Armors/Arm/fingers_m.uasset" SILENT=true
+[2023.01.30-12.37.02:916][274]LogSavePackage: Moving '../../../../Unreal4/Project_RustedHeart/Saved/fingers_m1F759E2845B576BFD9FBF5A8422EF352.tmp' to '../../../../Unreal4/Project_RustedHeart/Content/Character/Armors/Arm/fingers_m.uasset'
+[2023.01.30-12.37.02:919][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Armors/Arm/balljoints_m" FILE="../../../../Unreal4/Project_RustedHeart/Content/Character/Armors/Arm/balljoints_m.uasset" SILENT=true
+[2023.01.30-12.37.02:920][274]LogSavePackage: Moving '../../../../Unreal4/Project_RustedHeart/Saved/balljoints_m69DE08B84E50911AB63CBA8D914220FC.tmp' to '../../../../Unreal4/Project_RustedHeart/Content/Character/Armors/Arm/balljoints_m.uasset'
+[2023.01.30-12.37.02:926][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Armors/Arm/Hend_l" FILE="../../../../Unreal4/Project_RustedHeart/Content/Character/Armors/Arm/Hend_l.uasset" SILENT=true
+[2023.01.30-12.37.03:437][274]LogSavePackage: Moving '../../../../Unreal4/Project_RustedHeart/Saved/Hend_l41B2FE634C2E53F46B3D4EA0AFA6E286.tmp' to '../../../../Unreal4/Project_RustedHeart/Content/Character/Armors/Arm/Hend_l.uasset'
+[2023.01.30-12.37.03:474][274]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
+[2023.01.30-12.37.03:474][274]LogContentValidation: Display: Material /Game/Character/Armors/Arm/hand_m.hand_m 유효성 검사
+[2023.01.30-12.37.03:474][274]LogContentValidation: Display: Material /Game/Character/Armors/Arm/fingers_m.fingers_m 유효성 검사
+[2023.01.30-12.37.03:474][274]LogContentValidation: Display: Material /Game/Character/Armors/Arm/balljoints_m.balljoints_m 유효성 검사
+[2023.01.30-12.37.03:474][274]LogContentValidation: Display: SkeletalMesh /Game/Character/Armors/Arm/Hend_l.Hend_l 유효성 검사
+[2023.01.30-12.37.10:031][819]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2023.01.30-12.37.14:387][196]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Crouch_to_Stand_Rifle_Ironsights.Crouch_to_Stand_Rifle_Ironsights
+[2023.01.30-12.37.14:387][196]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Crouch_to_Stand_Rifle_Ironsights.Crouch_to_Stand_Rifle_Ironsights
+[2023.01.30-12.37.14:388][196]LogSlate: Window '스켈레톤 선택' being destroyed
+[2023.01.30-12.37.14:391][196]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2023.01.30-12.37.14:391][196]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.30-12.37.14:397][196]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2023.01.30-12.37.14:397][196]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.30-12.37.14:452][197]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Crouch_to_Stand_Rifle_Ironsights.Crouch_to_Stand_Rifle_Ironsights
+[2023.01.30-12.37.16:175][311]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Crouch_to_Stand_Rifle_Ironsights.Crouch_to_Stand_Rifle_Ironsights
+[2023.01.30-12.37.16:210][311]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.01.30-12.37.16:408][311]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.01.30-12.37.37:217][413]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2023.01.30-12.37.37:217][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.30-12.37.37:272][413]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2023.01.30-12.37.37:272][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.30-12.37.48:447][358]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.01.30-12.37.49:933][358]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.30-12.37.50:672][358]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.01.30-12.37.50:672][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.30-12.37.50:680][358]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Character/Armors/Arm/Hend_l.Hend_l
+[2023.01.30-12.37.51:033][358]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.01.30-12.37.51:053][358]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.01.30-12.37.51:069][358]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.01.30-12.37.51:102][359]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2023.01.30-12.37.51:102][359]LogLinker: Warning: '{FileName}': 파일을 찾을 수 없습니다. 로드에 실패했습니다.
+[2023.01.30-12.37.51:102][359]LogUObjectGlobals: Warning: 'Object /Game/Character/Armors/Arm/Hend_l.Hend_l' 오브젝트를 찾는 데 실패했습니다.
